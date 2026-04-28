@@ -98,32 +98,32 @@ O banco foi modelado seguindo o padrão **Star Schema** com granularidade em ní
 ## 📈 Visualizações Geradas
 
 ### 1. Receita vs Meta — Atingimento Mensal
-![Receita vs Meta](visualizations/01_receita_vs_meta.png)
+![Receita vs Meta](notebooks/visualizations/01_receita_vs_meta.png)
 
 ---
 
 ### 2. Share de Receita por Categoria
-![Share Categoria](visualizations/02_share_categoria.png)
+![Share Categoria](notebooks/visualizations/02_share_categoria.png)
 
 ---
 
 ### 3. Top 10 Produtos — Receita e Margem
-![Top Produtos](visualizations/03_top_produtos.png)
+![Top Produtos](notebooks/visualizations/03_top_produtos.png)
 
 ---
 
 ### 4. Heatmap — Sazonalidade por Categoria e Mês
-![Heatmap](visualizations/04_heatmap_categoria_mes.png)
+![Heatmap](notebooks/visualizations/04_heatmap_categoria_mes.png)
 
 ---
 
 ### 5. Curva ABC de Clientes (Pareto)
-![Curva ABC](visualizations/05_curva_abc_clientes.png)
+![Curva ABC](notebooks/visualizations/05_curva_abc_clientes.png)
 
 ---
 
 ### 6. Crescimento YoY por Região
-![YoY Região](visualizations/06_yoy_regiao.png)
+![YoY Região](notebooks/visualizations/06_yoy_regiao.png)
 
 ---
 
